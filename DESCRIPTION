@@ -12,6 +12,7 @@ Imports:
     reticulate,
     dplyr,
     purrr,
-    tibble
+    tibble,
+    glue
 LazyData: true
 RoxygenNote: 7.1.1

@@ -1,0 +1,15 @@
+{
+  "R": {
+    "Version": "4.0.2",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cloud.r-project.org"
+      }
+    ]
+  },
+  "Python": {
+    "Version": "3.6.11",
+    "Type": "conda"
+  }
+}
